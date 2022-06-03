@@ -1,8 +1,5 @@
 ### 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=WolfSa13&style=flat-square&color=blue" alt=""/>
+
 
 ---
 ### :woman_technologist: About Me :
