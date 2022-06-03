@@ -7,7 +7,7 @@
 ---
 ### :woman_technologist: About Me :
 I'm IT specialist and Python dev/DevOps enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-<p>-:telescope: I’m working as a Cyber Forensics Specialist (also freelance technical writer)</p>
+<p>-:telescope: I’m working as a Computer Forensics Specialist (also freelance technical writer)</p>
 <p>-:seedling: interested: cybersecurity, malware analyse, red/blue team, development, DevSecOps, OSINT, Forensic etc.</p>
 <p>-:mailbox:How to reach me:<a href="https://www.linkedin.com/in/subzer013000/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
