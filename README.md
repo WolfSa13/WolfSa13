@@ -3,7 +3,7 @@
 
 ---
 ### :woman_technologist: About Me :
-I'm IT specialist and Python dev/CyberSec enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 <p>-:seedling: interested: Python, cybersecurity, malware analyse, purple team, development, DevSecOps, OSINT, Forensic etc.</p>
 <p>-:mailbox:How to reach me:<a href="https://www.linkedin.com/in/marianaiv91/"> 
