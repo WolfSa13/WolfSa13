@@ -6,8 +6,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
 <p>-:seedling: interested: Python, cybersecurity, malware analyse, purple team, development, DevSecOps, OSINT, Forensic etc.</p>
-<p>-:mailbox:How to reach me:<a href="https://www.linkedin.com/in/marianaiv91/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
