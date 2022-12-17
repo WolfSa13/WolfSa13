@@ -50,3 +50,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostG" alt="PostG" width="40" height="40"/>&nbsp;
   </div>
+  
+  <script src="https://tryhackme.com/badge/1150436"></script>
