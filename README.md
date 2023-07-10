@@ -5,18 +5,19 @@
 ### :woman_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
-<p>-:seedling: interested: Python, cybersecurity, malware analyse, purple team, development, DevSecOps, OSINT, Forensic etc.</p>
+<p>-:seedling: interested: Python, cybersecurity, purple team, development, DevSecOps, OSINT, Forensic etc.</p>
 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <p><b> OS </b></p>
-  - Kali Linux / Parrot OS
+  -<b>Kali Linux / Parrot OS </b>
+  <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  
+  </p>
   
   <p><b> DevOps </b></p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
