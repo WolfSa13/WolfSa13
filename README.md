@@ -12,6 +12,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <p><b> OS </b></p>
+  - Kali Linux / Parrot OS
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
