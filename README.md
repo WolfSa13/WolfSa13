@@ -2,14 +2,14 @@
 
 
 ---
-### :woman_technologist: About Me :
+: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
 <p>-:seedling: interested: Python, cybersecurity, purple team, development, DevSecOps, OSINT, Forensic etc.</p>
 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+ Languages and Tools :
 <div>
   <p><b> OS </b></p>
   -<b>Kali Linux / Parrot OS </b>
